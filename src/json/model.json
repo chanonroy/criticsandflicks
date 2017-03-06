@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "title": "300",
+      "year": 2006
+    },
+    {
+      "id": 1,
+      "title": "Gods of Egypt",
+      "year": 2016
+    },
+    {
+      "id": 3,
+      "title": "The Last Witch Hunter",
+      "year": 2015
+    },
+    {
+      "id": 4,
+      "title": "Troy",
+      "year": 2004
+    }
+  ],
+  "reviews": [
+    {
+      "mov_id": 1,
+      "critic": "Peter Travers",
+      "review": "What raises [Movie] above all other historically botched FX epics is the stupefying schlock of its visual effects, they're like something out of Video Aps for Dummies. Come back, Clash of the Titans, all is forgiven"
+    },
+    {
+      "mov_id": 1,
+      "critic": "Alan Scherstuhl",
+      "review": "As bad movies go, this one at least is all-in on its badness."
+    },
+    {
+      "mov_id": 1,
+      "critic": "Will Leitch",
+      "review": "[Movie] is a movie that requires more effort to sit through than it did to make it."
+    }
+  ],
+  "game_map": [
+    { "mov_id": 1, "similars": [2, 3, 4] }
+  ]
+}
